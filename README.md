@@ -29,6 +29,7 @@
 1. Feature toggle
 1. Testes A/B
 1. Acessibilidade
+1. Server side rendering
 
 ## Apêndices
 
