@@ -28,6 +28,7 @@
 1. Mais sobre qualidade: testes de regressão
 1. Feature toggle
 1. Testes A/B
+1. Acessibilidade
 
 ## Apêndices
 
