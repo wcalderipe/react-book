@@ -30,6 +30,7 @@
 1. Testes A/B
 1. Acessibilidade
 1. Server side rendering
+1. Usando Eslint para manter um padrão de código
 
 ## Apêndices
 
