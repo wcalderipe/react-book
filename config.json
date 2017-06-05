@@ -1,0 +1,4 @@
+{
+  "build" : "./book/build.md",
+  "files" : ["./book/index.md"]
+}

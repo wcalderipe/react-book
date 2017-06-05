@@ -1,0 +1,17 @@
+{
+  "name": "react-book",
+  "version": "0.0.1",
+  "description": "ReactJS Book",
+  "scripts": {
+    "build": "markdown-include ./config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcalderipe/react-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-include": "^0.4.3"
+  }
+}
